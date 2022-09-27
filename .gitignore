@@ -1,2 +1,5 @@
 # Cache IntelliJ
 .idea/
+
+# For empty folders
+!data/.gitkeep
